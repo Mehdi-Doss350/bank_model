@@ -1,3 +1,4 @@
+pip>=25.2
 # Core app
 streamlit==1.29.0
 
