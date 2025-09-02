@@ -7,4 +7,3 @@ matplotlib
 tabpfn
 seaborn
 xgboost
-lightgbm
