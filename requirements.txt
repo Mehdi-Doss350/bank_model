@@ -21,4 +21,4 @@ pillow
 python-dateutil
 
 #model 
-tabpfn==0.1.10
+tabpfn==0.1.7
