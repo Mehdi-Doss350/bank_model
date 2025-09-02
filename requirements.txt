@@ -19,3 +19,6 @@ plotly
 scipy
 pillow
 python-dateutil
+
+#model 
+tabpfn
