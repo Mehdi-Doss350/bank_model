@@ -5,3 +5,6 @@ scikit-learn
 joblib
 matplotlib
 tabpfn
+seaborn
+xgboost
+lightgbm
