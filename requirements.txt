@@ -1,21 +1,21 @@
 pip>=25.2
 # Core app
-streamlit==1.29.0
+streamlit
 
 # Data processing
-pandas==2.1.0
-numpy==1.27.0
+pandas
+numpy
 
 # Machine learning
-scikit-learn==1.3.0
-joblib==1.3.2
+scikit-learn
+joblib
 
 # Visualization
-matplotlib==3.8.0
-seaborn==0.12.3
-plotly==5.16.0
+matplotlib
+seaborn
+plotly
 
 # Utilities
-scipy==1.11.1
-pillow==10.1.0
-python-dateutil==2.8.2
+scipy
+pillow
+python-dateutil
